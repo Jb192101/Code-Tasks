@@ -1,0 +1,115 @@
+// Задача: заполнить матрицу методом "диагональный змейки" при n >= 3, начав из нижнего левого угла
+// P.s.: работает исключительно для матриц 3x3, а также для матриц с чётными длинами сторон
+
+// Загруженные библиотеки
+import java.util.Scanner;
+
+// Основной код
+public class Matrix1 {
+    // Метод диагональной змейки
+    public static int[][] diagonal_snake(int[][] matrix, int n) {
+        int number_on_iter = 4;
+        matrix[n - 1][0] = 1;
+        matrix[n - 2][0] = 2;
+        matrix[n - 1][1] = 3;
+        int i = n - 1;
+        int j = 2;
+        while (true) {
+            // СНИЗУ ВВЕРХ СЛЕВА НАПРАВО
+            if ((i == n - 1 || j == n - 1)) {
+                while (true) {
+                    matrix[i][j] = number_on_iter;
+                    number_on_iter++;
+                    i--;
+                    j--;
+                    if (i == 0 || j == 0) {
+                        break;
+                    }
+                }
+                matrix[i][j] = number_on_iter;
+
+                // Проверка на крайнюю координату
+                if (i == 0 && j == n - 3) {
+                    break;
+                }
+
+                if (j == 0 && i != 0) {
+                    i--;
+                } else if (j != 0 && i == 0) {
+                    j++;
+                }
+                number_on_iter++;
+            } else if (i == 0 || j == 0) {
+                // СВЕРХУ ВНИЗ СЛЕВА НАПРАВО
+                while (true) {
+                    matrix[i][j] = number_on_iter;
+                    number_on_iter++;
+                    i++;
+                    j++;
+                    if (i == n - 1 || j == n - 1) {
+                        break;
+                    }
+                }
+                matrix[i][j] = number_on_iter;
+
+                // Проверка на крайнюю координату
+                if (i == 0 && j == n - 3) {
+                    break;
+                }
+
+                if (i == n-1 && j == n-1) {
+                    i--;
+                }else if (i == n-1 && j != n-1) {
+                    j++;
+                } else if (i != n-1 && j == n-1) {
+                    i--;
+                }
+                number_on_iter++;
+            }
+            // Проверка на крайнюю координату
+            if (i == 0 && j == n - 3) {
+                break;
+            }
+        }
+        matrix[0][n - 2] = number_on_iter + 1;
+        matrix[1][n - 1] = number_on_iter + 2;
+        matrix[0][n - 1] = number_on_iter + 3;
+        return matrix;
+    }
+
+    // Тело кода
+    public static void main(String[] args) {
+        // Ввод значения размерности матрицы
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Введите РАЗМЕР матрицы: ");
+
+        int n = scan.nextInt();
+
+        // Своеобразная провека на исключение
+        if (n < 3) {
+            System.out.println();;
+            System.out.println("!!ВАМ ПРИШЛО НОВОЕ СООБЩЕНИЕ!!");
+            System.out.println("Сообщение от Григор.io SvinkaPeppaForever: Ты дебел, нафик ты такое значение ввёл, мудень");
+            System.exit(0);
+        }
+
+        // Составление матрицы и заполнение её нулями
+        int[][] source_matrix = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                source_matrix[i][j] = 0;
+            }
+        }
+
+        // Заполнение матрицы методом "диагональной змейки"
+        int[][] source_matrix2 = diagonal_snake(source_matrix, n);
+
+        // Вывод матрицы на экран
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                System.out.print(source_matrix2[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+}
