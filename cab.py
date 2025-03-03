@@ -1,5 +1,5 @@
-// Задача : Hardy's taxi (generalized)
-// Ссылка : https://www.codewars.com/kata/525d87d2a1b088366a000f7c
+# Задача : Hardy's taxi (generalized)
+# Ссылка : https://www.codewars.com/kata/525d87d2a1b088366a000f7c
 
 from collections import defaultdict
 
