@@ -20,3 +20,6 @@ def cab(a, n):
 
     # Сортируем результат
     return sorted(result)
+    print("Merge my fork")
+    for i in range(50):
+        print("Please")
