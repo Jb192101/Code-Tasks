@@ -25,6 +25,10 @@
 11. [Count of squareable](https://github.com/Jb192101/Code-Tasks/blob/main/countSquareable.java)
 12. [Has two cub sums](https://github.com/Jb192101/Code-Tasks/blob/main/hasTwoCubeSums.java)
 
+## Контест Т-Банка
+1. [1-й контест](https://github.com/Jb192101/Code-Tasks/tree/main/T%20Bank%20Contest%201)
+2. [2-й контест](https://github.com/Jb192101/Code-Tasks/tree/main/T%20Bank%20Contest%202)
+
 ## Произвольные задачи
 1. [Диагональное заполнение матрицы](https://github.com/Jb192101/Code-Tasks/blob/main/Diagonal_snake_matrix_algorithm)
 2. [Пример кодера/декодера строки](https://github.com/Jb192101/Code-Tasks/blob/main/Main.java)
