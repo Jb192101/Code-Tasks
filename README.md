@@ -10,6 +10,7 @@
 6. [Reverse Vowels](https://github.com/Jb192101/Code-Tasks/blob/main/ReverseVowels.java)
 7. [Two sum](https://github.com/Jb192101/Code-Tasks/blob/main/Solution.java)
 8. [Substring without repeating](https://github.com/Jb192101/Code-Tasks/blob/main/SubstringWithoutRepeating.java)
+9. [Reverse Integer](https://github.com/Jb192101/Code-Tasks/blob/main/ReverseInteger.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
