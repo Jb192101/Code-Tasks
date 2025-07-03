@@ -14,6 +14,7 @@
 10. [Spiral Matrix II](https://github.com/Jb192101/Code-Tasks/blob/main/SpiralMatrixII.java)
 11. [sqrt(x)](https://github.com/Jb192101/Code-Tasks/blob/main/sqrt.java)
 12. [pow](https://github.com/Jb192101/Code-Tasks/blob/main/pow().java)
+13. [Gas Station](https://github.com/Jb192101/Code-Tasks/blob/main/gasStations.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
