@@ -15,6 +15,10 @@
 11. [sqrt(x)](https://github.com/Jb192101/Code-Tasks/blob/main/sqrt.java)
 12. [pow](https://github.com/Jb192101/Code-Tasks/blob/main/pow().java)
 13. [Gas Station](https://github.com/Jb192101/Code-Tasks/blob/main/gasStations.java)
+14. [Path sum](https://github.com/Jb192101/Code-Tasks/blob/main/PathSum.java)
+15. [Pascal Triangle](https://github.com/Jb192101/Code-Tasks/blob/main/PascalTriangle.java)
+16. [Pascal Triangle II](https://github.com/Jb192101/Code-Tasks/blob/main/PascalTriangleII.java)
+17. [Triangle](https://github.com/Jb192101/Code-Tasks/blob/main/Triangle.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
