@@ -20,6 +20,7 @@
 16. [Pascal Triangle II](https://github.com/Jb192101/Code-Tasks/blob/main/PascalTriangleII.java)
 17. [Triangle](https://github.com/Jb192101/Code-Tasks/blob/main/Triangle.java)
 18. [Intersection of two arrays](https://github.com/Jb192101/Code-Tasks/blob/main/Intersetion.java)
+19. [Max Points on a Line](https://github.com/Jb192101/Code-Tasks/blob/main/PointsOnOneLine.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
