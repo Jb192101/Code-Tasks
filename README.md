@@ -23,6 +23,7 @@
 19. [Max Points on a Line](https://github.com/Jb192101/Code-Tasks/blob/main/PointsOnOneLine.java)
 20. [Single Number](https://github.com/Jb192101/Code-Tasks/blob/main/OneNumb.java)
 21. [Min Stack](https://github.com/Jb192101/Code-Tasks/blob/main/MinStack.java)
+22. [Find Minimum in Rotated Sorted Array](https://github.com/Jb192101/Code-Tasks/blob/main/MinElRotatedSortedArray.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
