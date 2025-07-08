@@ -27,6 +27,9 @@
 23. [Roman to Integer](https://github.com/Jb192101/Code-Tasks/blob/main/RomanToInt.java)
 24. [Container with most water](https://github.com/Jb192101/Code-Tasks/blob/main/MaxContainer.java)
 25. [Cycle in Linked List](https://github.com/Jb192101/Code-Tasks/blob/main/CycleInLinkedList.java)
+26. [Find minimum in rotated sorted array II](https://github.com/Jb192101/Code-Tasks/blob/main/MinElRotatedSortedArrayII.java)
+27. [Maximum product subarray](https://github.com/Jb192101/Code-Tasks/blob/main/MaximumProductArray.java)
+28. [Palindrome Number](https://github.com/Jb192101/Code-Tasks/blob/main/PalindromeNumber.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
