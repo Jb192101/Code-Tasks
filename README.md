@@ -33,6 +33,7 @@
 29. [String to Integer (atoi)](https://github.com/Jb192101/Code-Tasks/blob/main/StringToInteger.java)
 30. [Longest Palindrome substring](https://github.com/Jb192101/Code-Tasks/blob/main/LongestPalindrome.java)
 31. [Divide Two Integers](https://github.com/Jb192101/Code-Tasks/blob/main/DivideTwoIntegers.java)
+32. [Maximum Subarray](https://github.com/Jb192101/Code-Tasks/blob/main/MaxSumSubArray.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
