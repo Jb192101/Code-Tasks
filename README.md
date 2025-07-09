@@ -34,6 +34,7 @@
 30. [Longest Palindrome substring](https://github.com/Jb192101/Code-Tasks/blob/main/LongestPalindrome.java)
 31. [Divide Two Integers](https://github.com/Jb192101/Code-Tasks/blob/main/DivideTwoIntegers.java)
 32. [Maximum Subarray](https://github.com/Jb192101/Code-Tasks/blob/main/MaxSumSubArray.java)
+33. [Climbing Stairs](https://github.com/Jb192101/Code-Tasks/blob/main/ClimbingStairs.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
