@@ -35,6 +35,9 @@
 31. [Divide Two Integers](https://github.com/Jb192101/Code-Tasks/blob/main/DivideTwoIntegers.java)
 32. [Maximum Subarray](https://github.com/Jb192101/Code-Tasks/blob/main/MaxSumSubArray.java)
 33. [Climbing Stairs](https://github.com/Jb192101/Code-Tasks/blob/main/ClimbingStairs.java)
+34. [Intersection of two linked list](https://github.com/Jb192101/Code-Tasks/blob/main/IntersectionTwoLinkedList.java)
+35. [Plus One](https://github.com/Jb192101/Code-Tasks/blob/main/PlusOne.java)
+36. [Sort Colors](https://github.com/Jb192101/Code-Tasks/blob/main/sortColors.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
