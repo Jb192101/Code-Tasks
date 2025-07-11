@@ -39,6 +39,7 @@
 35. [Plus One](https://github.com/Jb192101/Code-Tasks/blob/main/PlusOne.java)
 36. [Sort Colors](https://github.com/Jb192101/Code-Tasks/blob/main/sortColors.java)
 37. [Find Peak Element](https://github.com/Jb192101/Code-Tasks/blob/main/FindPeakElement.java)
+38. [Merge two sorted lists](https://github.com/Jb192101/Code-Tasks/blob/main/MergeTwoSortedLists.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
