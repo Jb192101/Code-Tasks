@@ -41,6 +41,9 @@
 37. [Find Peak Element](https://github.com/Jb192101/Code-Tasks/blob/main/FindPeakElement.java)
 38. [Merge two sorted lists](https://github.com/Jb192101/Code-Tasks/blob/main/MergeTwoSortedLists.java)
 39. [Merge sorted array](https://github.com/Jb192101/Code-Tasks/blob/main/MergeSortedArray.java)
+40. [Min Depth of Binary Tree](https://github.com/Jb192101/Code-Tasks/blob/main/MinDepthOfTree.java)
+41. [Balanced Binary Tree](https://github.com/Jb192101/Code-Tasks/blob/main/BalancedBinaryTree.java)
+42. [Rotate Array](https://github.com/Jb192101/Code-Tasks/blob/main/RotateArray.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
