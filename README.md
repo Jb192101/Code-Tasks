@@ -45,6 +45,7 @@
 41. [Balanced Binary Tree](https://github.com/Jb192101/Code-Tasks/blob/main/BalancedBinaryTree.java)
 42. [Rotate Array](https://github.com/Jb192101/Code-Tasks/blob/main/RotateArray.java)
 43. [Contains Dublicate](https://github.com/Jb192101/Code-Tasks/blob/main/ContainsDublicate.java)
+44. [Remove duplicates from sorted list](https://github.com/Jb192101/Code-Tasks/blob/main/DeleteDublicatesLinkedList.java)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
