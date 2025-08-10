@@ -46,6 +46,11 @@
 42. [Rotate Array](https://github.com/Jb192101/Code-Tasks/blob/main/RotateArray.java)
 43. [Contains Dublicate](https://github.com/Jb192101/Code-Tasks/blob/main/ContainsDublicate.java)
 44. [Remove duplicates from sorted list](https://github.com/Jb192101/Code-Tasks/blob/main/DeleteDublicatesLinkedList.java)
+45. [Coin Change](https://github.com/Jb192101/Code-Tasks/commit/023c56f625054cf393f129367355a1e0a4e3e1bd)
+46. [Fibonacci Number](https://github.com/Jb192101/Code-Tasks/commit/8eddd7b96336a789624424906773ad5a0cf221c8)
+47. [N-th tribonacci Number](https://github.com/Jb192101/Code-Tasks/commit/8648d1a27af3e089be54f1db35558cdc874f8487)
+48. [Min Cost Climbing Stairs](https://github.com/Jb192101/Code-Tasks/commit/19056249670a3de9d6d2bef8b95b3949172f5b54)
+49. [Unique Paths](https://github.com/Jb192101/Code-Tasks/commit/ffab68f186da5dc83c836548856c6b5ebf385d53)
 
 ## CodeWars
 1. [Count of IP addresses](https://github.com/Jb192101/Code-Tasks/blob/main/CountIPAddresses.java)
